@@ -1,4 +1,4 @@
-Beyin Tümörü Tespiti (AI Projesi)
+Beyin Tümörü Tespiti
 
 Bu proje, MR görüntülerini kullanarak beyin tümörünü tespit eden bir derin öğrenme modelidir.
 Python ve TensorFlow/Keras kullanılarak Google Colab üzerinde geliştirilmiştir.
